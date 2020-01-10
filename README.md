@@ -1,6 +1,6 @@
 # KVS
 KVS files
-
+runs on mac osx lion - high serra 
 To Install
 Unzip and Run
 
