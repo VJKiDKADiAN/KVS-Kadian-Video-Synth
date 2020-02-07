@@ -1,9 +1,9 @@
 # KVS
 KVS files
 runs on mac osx lion - high serra 
-( PC Version coming soon ) - you can run the app from Max/MSP 6 ( https://cycling74.com/downloads/older )
 To Install
 Unzip and Run
+( PC Version coming soon ) - you can run the app on PC right now from Max/MSP 6 Runtime ( https://cycling74.com/downloads/older )
 
 Enjoy
 
