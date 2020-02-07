@@ -25,3 +25,8 @@ Drawing on a canvas of 256 by 256 pixels !
 Video Mixing platform – ChromaKey 
 Use NDI Screen Cap app to send the video output to other apps ( Resolume // MadMapper )
 https://ndi.tv/tools/
+
+
+Artist Statment :
+=========================
+Kadian Video Synth is a simple but powerful video synth made to create visuals on low res Video walls. wiht several automatic modes to play wiht it is easy to come up with interesting video looks for lower resolution video walls. Built wiht Max 6 it is light weight and rock solid.
