@@ -1,7 +1,10 @@
 # KVS
 Kadian Video Synth :
+
 runs on mac osx lion - high serra 
+
 To Install
+
 Unzip and Run
 
 
