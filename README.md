@@ -19,3 +19,4 @@ Drawing on a canvas of 256 by 256 pixels !
 1 – Photo/Video Overlay With Pre ChromaKey Sobel FX 
 Video Mixing platform – ChromaKey 
 Use NDI Screen Cap app to send the video output to other apps ( Resolume // MadMapper )
+https://ndi.tv/tools/
