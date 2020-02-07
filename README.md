@@ -1,8 +1,10 @@
 # KVS
-KVS files
+Kadian Video Synth :
 runs on mac osx lion - high serra 
 To Install
 Unzip and Run
+
+
 ( PC Version coming soon ) - you can run the app on PC right now from Max/MSP 6 Runtime ( https://cycling74.com/downloads/older )
 
 Enjoy
